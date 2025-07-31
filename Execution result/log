@@ -1,0 +1,52 @@
+PS C:\Users\Administrator\Desktop\CNN MNIST> & C:/ProgramData/anaconda3/envs/yolo/python.exe "c:/Users/Administrator/Desktop/CNN MNIST/main.py"
+Using device: cuda
+使用批量大小: 256
+Epoch 1/32, Train Loss: 0.3312, Train Acc: 89.21%, Test Loss: 0.0701, Test Acc: 97.75%, Time: 35.30s
+Saved best model with test accuracy: 97.75%
+Epoch 2/32, Train Loss: 0.0626, Train Acc: 98.11%, Test Loss: 0.0386, Test Acc: 98.84%, Time: 30.27s
+Saved best model with test accuracy: 98.84%
+Epoch 3/32, Train Loss: 0.0420, Train Acc: 98.72%, Test Loss: 0.0282, Test Acc: 99.03%, Time: 33.13s
+Saved best model with test accuracy: 99.03%
+Epoch 4/32, Train Loss: 0.0292, Train Acc: 99.11%, Test Loss: 0.0256, Test Acc: 99.19%, Time: 30.71s
+Saved best model with test accuracy: 99.19%
+Epoch 5/32, Train Loss: 0.0257, Train Acc: 99.19%, Test Loss: 0.0259, Test Acc: 99.29%, Time: 33.16s
+Saved best model with test accuracy: 99.29%
+Epoch 6/32, Train Loss: 0.0200, Train Acc: 99.40%, Test Loss: 0.0253, Test Acc: 99.19%, Time: 36.20s
+Epoch 7/32, Train Loss: 0.0182, Train Acc: 99.39%, Test Loss: 0.0245, Test Acc: 99.29%, Time: 36.14s
+Epoch 8/32, Train Loss: 0.0156, Train Acc: 99.51%, Test Loss: 0.0231, Test Acc: 99.28%, Time: 36.10s
+Epoch 9/32, Train Loss: 0.0140, Train Acc: 99.56%, Test Loss: 0.0267, Test Acc: 99.29%, Time: 36.15s
+Epoch 10/32, Train Loss: 0.0122, Train Acc: 99.61%, Test Loss: 0.0229, Test Acc: 99.31%, Time: 36.09s
+Saved best model with test accuracy: 99.31%
+Epoch 11/32, Train Loss: 0.0104, Train Acc: 99.69%, Test Loss: 0.0263, Test Acc: 99.32%, Time: 36.09s
+Saved best model with test accuracy: 99.32%
+Epoch 12/32, Train Loss: 0.0094, Train Acc: 99.70%, Test Loss: 0.0277, Test Acc: 99.22%, Time: 30.39s
+Epoch 13/32, Train Loss: 0.0088, Train Acc: 99.73%, Test Loss: 0.0303, Test Acc: 99.15%, Time: 33.48s
+Epoch 14/32, Train Loss: 0.0095, Train Acc: 99.70%, Test Loss: 0.0295, Test Acc: 99.26%, Time: 36.06s
+Epoch 15/32, Train Loss: 0.0114, Train Acc: 99.65%, Test Loss: 0.0252, Test Acc: 99.34%, Time: 36.18s
+Saved best model with test accuracy: 99.34%
+Epoch 16/32, Train Loss: 0.0082, Train Acc: 99.75%, Test Loss: 0.0297, Test Acc: 99.39%, Time: 30.19s
+Saved best model with test accuracy: 99.39%
+Epoch 17/32, Train Loss: 0.0067, Train Acc: 99.78%, Test Loss: 0.0313, Test Acc: 99.32%, Time: 33.52s
+Epoch 18/32, Train Loss: 0.0064, Train Acc: 99.79%, Test Loss: 0.0295, Test Acc: 99.27%, Time: 30.32s
+Epoch 19/32, Train Loss: 0.0082, Train Acc: 99.73%, Test Loss: 0.0284, Test Acc: 99.33%, Time: 33.26s
+Epoch 20/32, Train Loss: 0.0099, Train Acc: 99.71%, Test Loss: 0.0374, Test Acc: 99.09%, Time: 30.39s
+Epoch 21/32, Train Loss: 0.0069, Train Acc: 99.78%, Test Loss: 0.0285, Test Acc: 99.32%, Time: 32.56s
+Epoch 22/32, Train Loss: 0.0051, Train Acc: 99.84%, Test Loss: 0.0304, Test Acc: 99.25%, Time: 35.99s
+Epoch 23/32, Train Loss: 0.0015, Train Acc: 99.96%, Test Loss: 0.0270, Test Acc: 99.41%, Time: 36.12s
+Saved best model with test accuracy: 99.41%
+Epoch 24/32, Train Loss: 0.0002, Train Acc: 100.00%, Test Loss: 0.0286, Test Acc: 99.47%, Time: 36.11s
+Saved best model with test accuracy: 99.47%
+Epoch 25/32, Train Loss: 0.0001, Train Acc: 100.00%, Test Loss: 0.0297, Test Acc: 99.44%, Time: 36.14s
+Epoch 26/32, Train Loss: 0.0001, Train Acc: 100.00%, Test Loss: 0.0303, Test Acc: 99.45%, Time: 30.19s
+Epoch 27/32, Train Loss: 0.0000, Train Acc: 100.00%, Test Loss: 0.0304, Test Acc: 99.46%, Time: 33.32s
+Epoch 28/32, Train Loss: 0.0001, Train Acc: 100.00%, Test Loss: 0.0330, Test Acc: 99.47%, Time: 30.22s
+Epoch 29/32, Train Loss: 0.0009, Train Acc: 99.98%, Test Loss: 0.0372, Test Acc: 99.31%, Time: 32.61s
+Epoch 30/32, Train Loss: 0.0015, Train Acc: 99.96%, Test Loss: 0.0395, Test Acc: 99.29%, Time: 30.49s
+Epoch 31/32, Train Loss: 0.0006, Train Acc: 99.99%, Test Loss: 0.0320, Test Acc: 99.48%, Time: 33.36s
+Saved best model with test accuracy: 99.48%
+Epoch 32/32, Train Loss: 0.0001, Train Acc: 100.00%, Test Loss: 0.0322, Test Acc: 99.47%, Time: 30.24s
+Training history saved to results/run_20250731-124210/training_history.csv
+Training curves saved to results/run_20250731-124210/training_curves.png
+Final model saved as results/run_20250731-124210/final_model.pth
+
+训练完成! 最佳模型在 epoch 31, 测试准确率: 99.48%
